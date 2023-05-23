@@ -1,3 +1,8 @@
-from drawing import colors
+from drawing import *
 
-colors.red()
+pencil()
+red()
+red()
+oval()
+text()
+eraser()
